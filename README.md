@@ -1,6 +1,6 @@
 # Udemy
 
-(モダン JavaScript の基礎から始める挫折しないための React 入門)[https://www.udemy.com/course/modern_javascipt_react_beginner/]
+[モダン JavaScript の基礎から始める挫折しないための React 入門](https://www.udemy.com/course/modern_javascipt_react_beginner/)
 
 # 内容
 
