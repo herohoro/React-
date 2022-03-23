@@ -69,7 +69,7 @@ const sayHello2 = (name = "ゲスト") => console.log(`こんにちは${name}さ
 // sayHello2();
 // sayHello2("ちゅくちゅく");
 
-//スプレッド構文
+//スプレッド構文...
 
 // 　_配列の展開
 const arr1 = [1, 2];
